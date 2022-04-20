@@ -1,2 +1,2 @@
 # project3
-This project keeps the notes of HTML, JS, JQUERY ect. studied by me.
+This project keeps the notes of HTML, JS, JQUERY etc. studied by me.
